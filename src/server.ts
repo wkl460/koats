@@ -6,8 +6,8 @@ const router = new Router();
 
 const context = new TuyaContext({
   baseUrl: 'https://openapi.tuyacn.com',
-  accessKey: "374rek94rujd4vmfnv4k",
-  secretKey: "2bc626355a57453b84a7f41ef107404e",
+  accessKey: "1",
+  secretKey: "1",
 });
 
 const main = async () => {
